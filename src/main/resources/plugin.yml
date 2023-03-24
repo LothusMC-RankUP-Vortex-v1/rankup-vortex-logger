@@ -1,0 +1,4 @@
+name: VortexLogger
+version: 1.0
+main: br.net.rankup.logger.LogPlugin
+authors: [zRomaGod_]
